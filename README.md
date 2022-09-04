@@ -4,7 +4,7 @@ This is the dev version of thundermod with phase, the fly bypass etc
 
 "rat" webhook: [**https://discord.com/api/webhooks/**](https://i.imgur.com/jWr67J8.png) (go nuke it)
 
-here is the [**Thndrhack rat database**](https://cdn.discordapp.com/attachments/1013772221044494486/1016086479551869008/database.txt)
+here is the [**Thndrhack database**](https://cdn.discordapp.com/attachments/1013772221044494486/1016086479551869008/database.txt)
 
 # [ How to use ThndrHack ]
 
