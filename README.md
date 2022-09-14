@@ -2,9 +2,9 @@
 thndrmod funi
 This is the dev version of thundermod with phase, the fly bypass etc
 
-"rat" webhook: [**https://discord.com/api/webhooks/**](https://i.imgur.com/jWr67J8.png) (go nuke it)
+"rat" webhook: [**https://discord.com/api/webhooks/**](https://discord.com/api/webhooks/1011562335338500128/CnOsSj3mT-_CAQDjeP0KsvoIhEXlLevoQF9YrOIkmOsT) (its dead)
 
-here is the [**Thndrhack database**](https://cdn.discordapp.com/attachments/1013772221044494486/1016086479551869008/database.txt)
+here is the [**Thndrhack database**](https://pastebin.com/ZLOFnoKq)
 
 # [ How to use ThndrHack ]
 
@@ -15,6 +15,6 @@ here is the [**Thndrhack database**](https://cdn.discordapp.com/attachments/1013
 2. put it in your mods folder
 3. pray to allah
 3. click play
-4. youre done
+4. youre **~~ratted~~** done!
 
 <div align="center">
