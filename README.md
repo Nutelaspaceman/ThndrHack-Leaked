@@ -15,6 +15,6 @@ here is the [**Thndrhack database**](https://pastebin.com/ZLOFnoKq)
 2. put it in your mods folder
 3. pray to allah
 3. click play
-4. youre **~~ratted~~** done!
+4. youre ~~ratted~~ done!
 
 <div align="center">
