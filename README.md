@@ -1,4 +1,4 @@
-# ThndrHack Dev Version 3.1
+# ThndrHack Dev Version 3.1 and 2.3 Rewrite
 thndrmod funi
 This is the dev version of thundermod with phase, the fly bypass etc
 
