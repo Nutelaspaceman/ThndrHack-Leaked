@@ -19,4 +19,5 @@ here is the [**Thndrhack database**](https://pastebin.com/ZLOFnoKq)
 
 <div align="center">
 # HOW TO FIX ISSUES
-I noticed that in some people 3.1 crashes, delete your config and re-run the client, If it still doesnt work use [**ThndrHack 2.3**](https://github.com/Nutelaspaceman/ThndrHack-Leaked/releases/tag/2.3)
+I noticed that in some people 3.1 crashes, delete your config and re-run the client, If it still doesnt work use
+[**ThndrHack v2.3**](https://github.com/Nutelaspaceman/ThndrHack-Leaked/releases/tag/2.3)
