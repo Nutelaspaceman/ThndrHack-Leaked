@@ -18,6 +18,6 @@ here is the [**Thndrhack database**](https://pastebin.com/ZLOFnoKq)
 4. youre ~~ratted~~ done!
 
 <div align="center">
-# HOW TO FIX ISSUES
+HOW TO FIX ISSUES
 I noticed that in some people 3.1 crashes, delete your config and re-run the client, If it still doesnt work use
-[**ThndrHack_3.1_dev.jar**](https://github.com/Nutelaspaceman/ThndrHack-Leaked/releases/tag/2.3)
+
