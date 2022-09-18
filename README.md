@@ -6,7 +6,6 @@ This is the dev version of thundermod with phase, the fly bypass etc
 
 here is the [**Thndrhack database**](https://pastebin.com/ZLOFnoKq)
 
-<div align="center">
 
 # [ How to use ThndrHack ]
 
