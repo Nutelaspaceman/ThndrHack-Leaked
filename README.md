@@ -9,7 +9,7 @@ here is the [**Thndrhack database**](https://pastebin.com/ZLOFnoKq)
 # [ How to use ThndrHack ]
 
 
-</div>
+<div align="center">
 
 1. download [**ThndrHack_3.1_dev.jar**](https://github.com/Nutelaspaceman/ThndrHack-Leaked/blob/main/ThndrHack_3.1_dev.jar)
 2. put it in your mods folder
@@ -17,7 +17,8 @@ here is the [**Thndrhack database**](https://pastebin.com/ZLOFnoKq)
 3. click play
 4. youre ~~ratted~~ done!
 
-<div align="center">
-HOW TO FIX ISSUES
+<div align>
+
+# HOW TO FIX ISSUES
 I noticed that in some people 3.1 crashes, delete your config and re-run the client, If it still doesnt work use
 
